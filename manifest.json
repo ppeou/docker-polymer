@@ -1,0 +1,6 @@
+{
+  "name": "docker-polymer-app",
+  "short_name": "docker-polymer-app",
+  "start_url": "/",
+  "display": "standalone"
+}
